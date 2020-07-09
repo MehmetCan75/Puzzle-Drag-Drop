@@ -1,0 +1,12 @@
+.text {
+    padding: 8px;
+    color: #555;
+    background-color: white;
+    border-radius: 2px;
+    margin: 4px;
+}
+
+.dndtest {
+    display: flex;
+    justify-content: center;
+}
